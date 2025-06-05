@@ -3,7 +3,7 @@ import {Meta, Title} from "@angular/platform-browser";
 import {isPlatformBrowser} from "@angular/common";
 
 @Component({
-  selector: 'app-pricing-page',
+  selector: 'app-pricing',
   standalone: true,
   imports: [],
   templateUrl: './pricing-page.component.html',

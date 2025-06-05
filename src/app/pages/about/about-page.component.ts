@@ -2,7 +2,7 @@ import {ChangeDetectionStrategy, Component, inject} from '@angular/core';
 import {Meta, Title} from "@angular/platform-browser";
 
 @Component({
-  selector: 'about-page',
+  selector: 'about',
   standalone: true,
   imports: [],
   templateUrl: './about-page.component.html',
